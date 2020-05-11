@@ -1,0 +1,1 @@
+(cervene 2 3 4 h)(fialove 3 2 6 v)

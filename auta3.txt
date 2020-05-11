@@ -1,0 +1,1 @@
+(cervene 2 2 1 h)(zelene 3 1 6 v)(tmavomodre 3 4 6 v)

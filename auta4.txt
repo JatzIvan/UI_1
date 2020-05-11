@@ -1,0 +1,1 @@
+(cervene 2 4 2 h)(tmavomodre 3 4 1 v)(zlte 3 6 3 h)(zelene 2 4 4 v)(modre 3 4 6 v)(fialove 2 2 1 v)(orandzove 3 1 1 h)(nebove 2 2 2 v)(sede 3 2 3 h)
